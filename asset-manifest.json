@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/soybean-shop/static/css/main.1c207081.chunk.css",
+    "main.js": "/soybean-shop/static/js/main.b27e91a3.chunk.js",
+    "main.js.map": "/soybean-shop/static/js/main.b27e91a3.chunk.js.map",
+    "runtime-main.js": "/soybean-shop/static/js/runtime-main.253b1a89.js",
+    "runtime-main.js.map": "/soybean-shop/static/js/runtime-main.253b1a89.js.map",
+    "static/js/2.01a51b3a.chunk.js": "/soybean-shop/static/js/2.01a51b3a.chunk.js",
+    "static/js/2.01a51b3a.chunk.js.map": "/soybean-shop/static/js/2.01a51b3a.chunk.js.map",
+    "static/js/3.de6f1ef5.chunk.js": "/soybean-shop/static/js/3.de6f1ef5.chunk.js",
+    "static/js/3.de6f1ef5.chunk.js.map": "/soybean-shop/static/js/3.de6f1ef5.chunk.js.map",
+    "index.html": "/soybean-shop/index.html",
+    "static/css/main.1c207081.chunk.css.map": "/soybean-shop/static/css/main.1c207081.chunk.css.map",
+    "static/js/2.01a51b3a.chunk.js.LICENSE.txt": "/soybean-shop/static/js/2.01a51b3a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/soybean-shop/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.253b1a89.js",
+    "static/js/2.01a51b3a.chunk.js",
+    "static/css/main.1c207081.chunk.css",
+    "static/js/main.b27e91a3.chunk.js"
+  ]
+}
